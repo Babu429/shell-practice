@@ -1,7 +1,7 @@
 NUMBER1 = 150
 NUMBER2 = 150
 
-SUM= $((NUMBER1+NUMBER2))
+SUM= $(($NUMBER1+$NUMBER2))
 
 echo "Sum of the above 2 numbers is :: ${SUM}"
 
