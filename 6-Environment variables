@@ -1,0 +1,3 @@
+#!/bin/bash
+# using export will set the environment variables
+echo "Dynamic setting of the environment variables: $COURSE "
