@@ -14,4 +14,4 @@
 while IFS= read -r filepath;
 do
 echo "$filepath"
-done > 21-script-1.sh
+done < 21-script-1.sh
